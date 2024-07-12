@@ -1,0 +1,4 @@
+name: authWithGithubApp
+
+on: workflowDispatch
+  echo 'workflow running'
